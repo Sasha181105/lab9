@@ -1,5 +1,5 @@
 #!/bin/bash
-MAX_NAME=15
+MAX_NAME=20
 MAX_MOBILE=10
 NAME="$1"
 MOBILE="$2"
